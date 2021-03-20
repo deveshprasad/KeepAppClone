@@ -1,5 +1,10 @@
 KeepAppClone
 Created with CodeSandbox
+
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/63739986/111863927-46b6b700-8984-11eb-9939-94429bb1c62f.gif)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
